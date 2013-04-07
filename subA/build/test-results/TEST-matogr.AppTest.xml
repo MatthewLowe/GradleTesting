@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="matogr.AppTest" tests="1" failures="0" errors="0" timestamp="2013-04-07T12:00:37" hostname="MartinPC" time="0.001">
+  <properties/>
+  <testcase name="testApp" classname="matogr.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+evaluationDependsOnChildren();
+
+task testMe {
+	dependsOn subprojects.build
+	println "I will run after subprojects"
+}
+
+task wr(type: Wrapper) {}
